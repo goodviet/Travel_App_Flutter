@@ -23,6 +23,8 @@ Flutter Travel App
 
 ## 📸 ScreenShots
 
+<img src="/choose_date.png">
+
 ![Preview](/Home_Screen.png)
 
 | 1 | 2|
