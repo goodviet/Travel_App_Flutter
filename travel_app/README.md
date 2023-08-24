@@ -19,7 +19,11 @@ Flutter Travel App
 <li>Login Screen<li>
 
 
+
+
 ## 📸 ScreenShots
+
+![Preview](/Home_Screen.png)
 
 | 1 | 2|
 |------|-------|
