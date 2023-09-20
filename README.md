@@ -26,9 +26,9 @@ Flutter Travel App
 ## 📸 ScreenShots
 
 
-HomeScreen | DetailScreen |
-| ------------- | ------------- |
-| ![Alt text](/travel_app/Home_Screen.png "Optional title") | ![Alt text](/travel_app/goiy.png "Optional title")  |
+HomeScreen | DetailScreen | Place |
+| ------------- | ------------- |------------- |
+| ![Alt text](/travel_app/Home_Screen.png "Optional title") | ![Alt text](/travel_app/goiy.png "Optional title")  | ![Alt text](/travel_app/place.png "Optional title") |
 | Content Cell  | Content Cell  |
 
 Choose Date Screen | Choose Hour Screen |
