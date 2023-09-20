@@ -5,7 +5,7 @@
 Flutter Travel App 
 
 ## Getting Started
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,nodejs,figma&theme=light)](https://skillicons.dev)
 
 [![Tool](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
