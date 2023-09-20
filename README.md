@@ -2,7 +2,7 @@
 
 # travel_app
 
-A new Flutter project.
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 Flutter Travel App 
 
