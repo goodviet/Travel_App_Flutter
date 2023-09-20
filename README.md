@@ -14,15 +14,16 @@ Flutter Travel App
 ## Screens it contains:
 
 
-<i class="fa fa-home" aria-hidden="true">Home Screen</i>
-Detail Screen
-Popular Screen
-Choose Date Screen
-Choose Hour Screen
-Suggest Screen
-Map Screen
-Register Screen
-Login Screen
+<li>Home Screen<li>
+<li>Detail Screen<li>
+<li>Popular Screen<li>
+<li>Choose Date Screen<li>
+<li>Choose Hour Screen<li>
+<li>Suggest Screen<li>
+<li>Map Screen<li>
+<li>Register Screen<li>
+<li>Login Screen<li>
+
 
 
 
