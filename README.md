@@ -5,12 +5,12 @@
 Flutter Travel App 
 
 ## Getting Started
-[![Tool + Platform + Framework +  for project Travel_App](https://skillicons.dev/icons?i=flutter&perline=3,dart,nodejs,figma&theme=light,mongodb,vscode)](https://skillicons.dev)
+[![Skill](https://skillicons.dev/icons?i=flutter&perline=3,dart,nodejs,figma&theme=light,mongodb,vscode)](https://skillicons.dev)
+
 [![Tool](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ## Screens it contains:
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 <li>Home Screen<li>
 <li>Detail Screen<li>
