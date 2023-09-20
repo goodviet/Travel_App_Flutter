@@ -29,7 +29,9 @@ Flutter Travel App
 
 | 1 | 2|
 |------|-------|
-|<img src="/Home_Screen.png" width="400">|<img src="/diemden.png" width="400">|
+<!-- |<img src="/Home_Screen.png" width="400">|<img src="/diemden.png" width="400">| -->
+![Alt text](/travel_app/diemden.png "Optional title")
+
 
 | 3 | 4|
 |------|-------|
