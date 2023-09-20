@@ -25,24 +25,28 @@ Flutter Travel App
 
 ## 📸 ScreenShots
 
-<img src="/choose_date.png">
 
-![Preview](/Home_Screen.png)
-
- First Header  | Second Header |
+HomeScreen | DetailScreen |
 | ------------- | ------------- |
 | ![Alt text](/travel_app/Home_Screen.png "Optional title") | ![Alt text](/travel_app/goiy.png "Optional title")  |
 | Content Cell  | Content Cell  |
 
-| 1 | 2|
-|------|-------|
-<!-- |<img src="/Home_Screen.png" width="400">|<img src="/diemden.png" width="400">| -->
+Choose Date Screen | Choose Hour Screen |
+| ------------- | ------------- |
+| ![Alt text](/travel_app/choose_date.png "Optional title") | ![Alt text](/travel_app/choose_h.png "Optional title")  |
+| Content Cell  | Content Cell  |
+
+Suggest Screen | Map Screen |
+| ------------- | ------------- |
+| ![Alt text](/travel_app/diadiemd.png "Optional title") | ![Alt text](/travel_app/map.png "Optional title")  |
+| Content Cell  | Content Cell  |
+
+Register Screen |DetailPlaceScreen |
+| ------------- | ------------- |
+| ![Alt text](/travel_app/profile.png "Optional title") | ![Alt text](/travel_app/detail_place.png "Optional title")  |
+| Content Cell  | Content Cell  |
 
 
-
-| 3 | 4|
-|------|-------|
-|<img src="/choose_date.png" width="400">|<img src="/map.png" width="400">|
 
 This project is a starting point for a Flutter application.
 
